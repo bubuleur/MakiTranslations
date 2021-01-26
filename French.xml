@@ -81,9 +81,9 @@
     <string name="open_in_browser">Ouvrir dans le navigateur</string>
     <string name="copy_url">Copier dans le presse-papier</string>
     <string name="download">Télécharger</string>
-    <string name="removed">Supprimer</string>
-    <string name="auto_night_title">Thème sombre automatique</string>
-    <string name="auto_night_more">Le thème sombre sera activé automatiquement aux heures sélectionner.</string>
+    <string name="removed">Supprimé</string>
+    <string name="auto_night_title">Thème nuit automatique</string>
+    <string name="auto_night_more">Le thème nuit sera activé automatiquement aux heures sélectionner.</string>
     <string name="save_to">Enregistré dans :</string>
     <string name="font_size">Taille de la police</string>
     <string name="quickbar">Barre d\'accès rapide</string>
@@ -189,8 +189,8 @@
     <!--2.5.2-->
     <string name="notif">Notifications</string>
     <!--Maki 2.6.1-->
-    <string name="top_news">Meilleures histoires</string>
-    <string name="top_news_firstly">Afficher les meilleures histoires dans le fil d\'actualité</string>
+    <string name="top_news">Meilleures nouvelles</string>
+    <string name="top_news_firstly">Afficher les meilleures nouvelles dans le fil d\'actualité</string>
     <string name="hide_people">Les gens que vous connaissez peut-être</string>
     <string name="hide_people_summary">Supprimer les amis recommandés du fil d\'actualité</string>
     <string name="hide_groups">Groupes recommandés</string>
@@ -219,12 +219,12 @@
     <string name="groups_nav">Groupes</string>
     <string name="find_friends_nav">Retrouver des amis</string>
     <string name="events_nav">Événements</string>
-    <string name="this_day_nav">En ce jour</string>
-    <string name="saved_nav">Enregistré</string>
+    <string name="this_day_nav">Souvenir</string>
+    <string name="saved_nav">Enregistrer</string>
     <string name="pages_nav">Pages</string>
     <string name="local_nav">Local</string>
     <string name="photos_nav">Photos</string>
-    <string name="most_recent_nav">Le plus récent</string>
+    <string name="most_recent_nav">Les plus récents</string>
 
     <!--2.6.2-->
     <string name="hide_stories">Supprimer des stories</string>
@@ -283,7 +283,7 @@
     <string name="list_empty">Aucun élément…</string>
 
     <string name="quiet_hours">Ne pas déranger</string>
-    <string name="quiet_hours_summary">Sélectionnez les heures où vous souhaitez ne pas être déranger.</string>
+    <string name="quiet_hours_summary">Sélectionnez les heures où vous souhaitez ne pas être dérangé.</string>
 
     <string name="quiet_hour">Heure tranquille</string>
     <string name="remove_interval">Supprimer l\'intervalle</string>
@@ -424,7 +424,7 @@
 
     <!--4.1 Hortensia-->
     <string-array name="browser_entries">
-        <item>Chrome Custom Tabs</item>
+        <item>Onglets personnalisés Chrome</item>
         <item>Navigateur Maki</item>
         <item>Navigateur externe</item>
     </string-array>
@@ -503,7 +503,7 @@
 
     <string name="log_activity">Historique personnel</string>
     <!--Maki 4.5.1 Hortensia-->
-    <string name="instagram_stories">Bouton de téléchargement des Stories</string>
+    <string name="instagram_stories">Bouton de téléchargement des stories</string>
     <string name="instagram_stories_summary">Afficher le bouton pour enregistrer les stories</string>
 
     <string name="messenger_installed">Assurez-vous que l\'application est installée sur votre téléphone</string>
@@ -526,12 +526,12 @@
     <string name="video_stream_error_summary">Il semble que quelque chose ne va pas. Veuillez réessayer.</string>
 
     <!--Maki 4.7 Hortensia-->
-    <string name="auto_dark_list">Sélectionnez le thème nuit automatique</string>
+    <string name="auto_dark_list">Sélectionnez le thème sombre automatique</string>
     <string name="mute_audio">Couper l\'audio</string>
     <string name="unmute_audio">Activer l\'audio</string>
 
     <string-array name="pref_theme_entries_dark_automatic">
-        <item>Matériel foncé</item>
+        <item>Matériel sombre</item>
         <item>Bleu foncé</item>
         <item>AMOLED</item>
         <item>Bleu foncé (2)</item>
